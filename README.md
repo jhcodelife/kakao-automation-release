@@ -8,7 +8,7 @@
 3. **👉프로그램의 '열려있는 대화창' 목록이 잘 수집되었는지 꼭 확인합니다.👈**
 4. '메시지 보내기'를 실행합니다.
 
-# MacOs ([다운로드](https://github.com/jhcodelife/kakao-automation-release/blob/main/macos/KakaoMacro_v1.0.tar.gz))
+# MacOS ([다운로드](https://github.com/jhcodelife/kakao-automation-release/blob/main/macos/KakaoMacro_v1.0.tar.gz))
 다운로드 링크에서 아래처럼 다운로드 버튼을 통해 내려받기
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/ff200976-d8ea-4723-afd8-1361b7088674" />
