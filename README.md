@@ -9,6 +9,10 @@
 4. '메시지 보내기'를 실행합니다.
 
 # MacOs ([다운로드](https://github.com/jhcodelife/kakao-automation-release/blob/main/macos/KakaoMacro_v1.0.tar.gz))
+다운로드 링크에서 아래처럼 다운로드 버튼을 통해 내려받기
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/ff200976-d8ea-4723-afd8-1361b7088674" />
+
 ## 개발자 코드 사인 필수 
 1. 압축 후, 응용프로그램(Applications)으로 이동합니다.
 2. 터미널에서 아래 커맨드를 사용해 코드 사이닝합니다.
@@ -21,6 +25,10 @@ codesign --force --deep --sign - /Applications/KakaoMacro.app
 ![실행화면](https://github.com/jhcodelife/kakao-automation-release/blob/main/macos/kakao_screenshot_macos.gif)
 
 # Windows ([다운로드]([https://github.com/jjhok/kakao-automation-release/tree/main/windows](https://github.com/jhcodelife/kakao-automation-release/blob/main/windows/KakaoMacro_v1.0_windows.zip)))
+다운로드 링크에서 아래처럼 다운로드 버튼을 통해 내려받기
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/ff200976-d8ea-4723-afd8-1361b7088674" />
+
 - 개발 환경이 없어서 충분히 테스트 되지 않았습니다. 
 - 압축 후 보안 프로그램에 의해 실행파일이 삭제될 수 있습니다. 보안 설정 해제 후 사용할 수 있습니다.
 - 실행화면
